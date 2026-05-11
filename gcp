@@ -3,5 +3,5 @@ y=4
 z=x+y
 the answer is 9
 print z
- 
+ the result should be varied
 
